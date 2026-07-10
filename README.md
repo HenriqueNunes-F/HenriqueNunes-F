@@ -232,7 +232,7 @@ Suporte aos planejadores de engenharia e à produção: ferramentas de qualidade
 ### Universidade Positivo
 <img src="https://img.shields.io/badge/Tecn%C3%B3logo-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20(2024%E2%80%932026)-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Produ%C3%A7%C3%A3o%20(2023%E2%80%932027%20%C2%B7%20)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Produ%C3%A7%C3%A3o%20(2023%E2%80%932026%20%C2%B7%20)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 ### SENAI — Serviço Nacional de Aprendizagem Industrial
 <img src="https://img.shields.io/badge/T%C3%A9cnico-Mecatr%C3%B4nica%2C%20Rob%C3%B3tica%20e%20Automa%C3%A7%C3%A3o%20(2018%E2%80%932020)-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white"/>
