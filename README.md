@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Tecn%C3%B3logo-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="ADS"/>
-<img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Produ%C3%A7%C3%A3o%20(cursando)-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Engenharia de Produção"/>
+<img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Produ%C3%A7%C3%A3o%20-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Engenharia de Produção"/>
 <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Curitiba%2C%20PR-4F46E5?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
 
 <br/><br/>
