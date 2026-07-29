@@ -93,14 +93,14 @@ Estou em **transição de carreira para o desenvolvimento backend**, unindo form
 
 <div align="center">
 
-| Domínio | Nível | Como aplico no software |
-|:--------|:-----:|:------------------------|
-| **Lógica de Programação & SQL** | ▓▓▓▓▓▓▓▓░░ | Construção de APIs RESTful com Node.js/Express e bancos MySQL modelados e normalizados |
-| **Modelagem de Dados (DER)** | ▓▓▓▓▓▓▓▓░░ | Estruturação de bancos relacionais a partir de regras de negócio reais |
-| **Engenharia de Processos** | ▓▓▓▓▓▓▓▓▓░ | Visão sistêmica de fluxos, gargalos e melhoria contínua aplicada à eficiência de sistemas |
-| **Análise de Dados & SAP-PM** | ▓▓▓▓▓▓▓▓░░ | Catalogação, criticidade e planos de manutenção — pensamento estruturado levado para o código |
-| **Metodologias Ágeis** | ▓▓▓▓▓▓▓░░░ | Scrum e Kanban vividos na prática em ambiente industrial de grande porte |
-| **TypeScript & Testes** | ▓▓▓▓▓░░░░░ | Em evolução ativa — tipagem estática, persistência avançada e testes automatizados |
+| Domínio | Como aplico no software |
+|:--------|:------------------------|
+| **Lógica de Programação & SQL** | Construção de APIs RESTful com Node.js/Express e bancos MySQL modelados e normalizados |
+| **Modelagem de Dados (DER)** | Estruturação de bancos relacionais a partir de regras de negócio reais |
+| **Engenharia de Processos** | Visão sistêmica de fluxos, gargalos e melhoria contínua aplicada à eficiência de sistemas |
+| **Análise de Dados & SAP-PM** | Catalogação, criticidade e planos de manutenção — pensamento estruturado levado para o código |
+| **Metodologias Ágeis** | Scrum e Kanban vividos na prática em ambiente industrial de grande porte |
+| **TypeScript & Testes** | Em evolução ativa — tipagem estática e testes automatizados |
 
 </div>
 
@@ -109,21 +109,21 @@ Estou em **transição de carreira para o desenvolvimento backend**, unindo form
 ## 🚀 Projeto em Destaque
 
 <details open>
-<summary><b>🐾 Sistema Veterinário — Gestão Completa para Clínicas Veterinárias</b></summary>
+<summary><b>🐾 Sistema Veterinário — API REST para Clínicas Veterinárias · em desenvolvimento</b></summary>
 <br/>
 
 > Sistema de gestão que tira uma clínica veterinária do papel: cadastro de tutores, pets e veterinários, registro de consultas com ações realizadas e histórico clínico completo de cada animal — modelado a partir do domínio antes de qualquer linha de código.
 
 | Aspecto | Detalhes |
 |:--------|:---------|
-| **Stack** | JavaScript (ES6+), Node.js, Express, MySQL, HTML e CSS |
+| **Stack** | JavaScript (ES6+), Node.js, Express, HTML e CSS · MySQL (schema modelado, conexão em desenvolvimento) |
 | **Modelagem** | 5 entidades relacionais — Tutor (1:N) Pet (1:N) Consulta (N:1) Veterinário, e Consulta (1:N) Ação |
 | **Funcionalidades** | Cadastro e vínculo de tutores/pets/veterinários, registro de consultas com múltiplas ações, histórico do pet ordenado por data |
 | **Regras de Negócio** | Cálculo do valor total da consulta pela soma das ações, consultas por veterinário e busca de pet pelo tutor |
 | **Boas Práticas** | Modelagem de entidades antes do código, commits organizados e separação backend (src) / interface (public) |
 | **Repositório** | [github.com/HenriqueNunes-F/sistema-veterinario](https://github.com/HenriqueNunes-F/sistema-veterinario) |
 
-Meu primeiro projeto prático de maior escala com foco em backend. O desenvolvimento partiu do entendimento do domínio: desenhei o mapa de entidades e relacionamentos um-para-muitos (um tutor tem vários pets, um pet passa por várias consultas, cada consulta pertence a um veterinário e contém várias ações) antes de programar — exatamente o raciocínio estruturado que trago da engenharia de processos. A API em Node.js/Express expõe o fluxo completo da clínica, com persistência em MySQL e interface web para operação.
+Meu primeiro projeto prático de maior escala com foco em backend. O desenvolvimento partiu do entendimento do domínio: desenhei o mapa de entidades e relacionamentos um-para-muitos (um tutor tem vários pets, um pet passa por várias consultas, cada consulta pertence a um veterinário e contém várias ações) antes de programar — exatamente o raciocínio estruturado que trago da engenharia de processos. A API em Node.js/Express expõe o fluxo da clínica. O schema MySQL já está modelado, povoado e com integridade referencial por chaves estrangeiras, incluindo consultas com JOIN e agregações — a ligação da API ao banco é a etapa que estou construindo agora; hoje os dados são carregados em memória a partir das classes.
 
 </details>
 
@@ -159,7 +159,7 @@ Desenvolvimento de soluções de ferramentais para novos produtos e interface t�
 <br/>
 
 ### **Técnico Eletromecânico Pleno** · Eletropolar
-📅 *Jan 2023 – Abr 2024 · Curitiba, PR*
+📅 *Jan 2023 – Mar 2023 · Curitiba, PR*
 
 Atuação em manutenção eletromecânica de equipamentos industriais.
 
@@ -214,7 +214,7 @@ Suporte aos planejadores de engenharia e à produção: ferramentas de qualidade
 
 | Reconhecimento | Detalhes |
 |:--------------:|:---------|
-| 🎓 **Tecnólogo em ADS** | Formação em Análise e Desenvolvimento de Sistemas pela Universidade Positivo (2024–2026) |
+| 🎓 **Tecnólogo em ADS** | Formação em Análise e Desenvolvimento de Sistemas pela Universidade Positivo (2023–2025) |
 | 🏭 **Startup de Fábrica** | Coparticipação no startup da fábrica de cremes do Grupo Boticário, do comissionamento à operação |
 | 💼 **Quase 3 anos no Grupo Boticário** | Evolução de Técnico PCM a Técnico Engenheiro de Produto em uma das maiores indústrias de cosméticos do país |
 | 🚀 **Empreendedorismo** | Fundei e operei dois negócios próprios por mais de 2 anos |
@@ -230,9 +230,9 @@ Suporte aos planejadores de engenharia e à produção: ferramentas de qualidade
 <div align="center">
 
 ### Universidade Positivo
-<img src="https://img.shields.io/badge/Tecn%C3%B3logo-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20(2024%E2%80%932026)-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tecn%C3%B3logo-An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20(2023%E2%80%932025)-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Produ%C3%A7%C3%A3o%20(2023%E2%80%932026%20%C2%B7%20)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Produ%C3%A7%C3%A3o%20(2016%E2%80%932024)-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 
 ### SENAI — Serviço Nacional de Aprendizagem Industrial
 <img src="https://img.shields.io/badge/T%C3%A9cnico-Mecatr%C3%B4nica%2C%20Rob%C3%B3tica%20e%20Automa%C3%A7%C3%A3o%20(2018%E2%80%932020)-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white"/>
@@ -304,7 +304,7 @@ aprendendo:
   - Testes automatizados (unitários e de integração)
 
 construindo:
-  - Sistema Veterinário — gestão completa para clínicas (Node.js + MySQL)
+  - Sistema Veterinário — conectando a API ao MySQL (fase atual)
   - APIs RESTful completas com Node.js, Express e MySQL
   - Projetos do design do banco de dados ao deploy
 
